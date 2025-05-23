@@ -17,16 +17,15 @@
 </div>
 
 <!-- ABOUT ME -->
-
 <h3 align="left">👩‍💻 About Me</h3>
-<p align="left">
-<h2>I am a veteran industrial designer shifting gears into software development.
-  <br><i>Swapping sketches for HTML and prototypes for responsive code — always with the user in mind.</i>
-</h2>
+<b>I am a veteran industrial designer shifting gears into software development.</b>
+<br><i>Swapping sketches for HTML and prototypes for responsive code — always with the user in mind.</i>
+<br>
 <br>- 🔭 I’m working <i><b><mark>in the zone</mark></b></i>
 <br>- 📚 I'm currently <I><b><mark>learning how to navigate the world in syntax</b></mark></i>
 <br>- ⚡ In my free time I am <i><b><mark>in full-out-nerd-mode</b></i></mark></p>
-
+<hr>
+  
 <!-- LANUGAGE AND TOOLS -->
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -38,6 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"
     alt="javascript logo" />
 </div>
+<hr>
 
 <!-- SPOTIFY -->
 
@@ -48,6 +48,7 @@
       alt="Spotify recently played" width="50%" position=absolute />
   </a>
 </div>
+<hr>
 
 <!-- GITHUB STATS -->
 
