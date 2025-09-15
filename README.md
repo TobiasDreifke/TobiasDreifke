@@ -39,15 +39,6 @@
 </div>
 <hr>
 
-<!-- SPOTIFY -->
-
-<h3 align="left">🤘 Listen with me :</h3>
-<div align="center">
-  <a href="https://open.spotify.com/user/1139544620">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=1139544620&count=5&unique=true"
-      alt="Spotify recently played" width="50%" position=absolute />
-  </a>
-</div>
 <hr>
 
 <!-- GITHUB STATS -->
